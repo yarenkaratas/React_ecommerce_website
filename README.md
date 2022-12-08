@@ -1,1 +1,1 @@
-Demo Link : https://fullstackreactecommercewebsite.netlify.app/home
+Demo Link : fullstackreactecommercewebsite.netlify.app
